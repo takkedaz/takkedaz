@@ -1,19 +1,14 @@
-<h1 align="center">Oi, eu sou o João 👋</h1>
-<p align="center">Desenvolvedor full-stack em formação — aprendendo construindo projetos reais, com foco em lógica, organização de código e boas práticas com Git.</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:134e4a&height=200&section=header&text=Jo%C3%A3o%20Takkeda&fontColor=2dd4bf&fontSize=46&fontAlignY=35&animation=fadeIn&desc=Dev%20Full-stack%20%7C%20Front-end%20%7C%20React&descAlignY=55&descSize=18&descColor=94a3b8">
 
-<p align="center">
-  <a href="https://takkedaz.github.io/portfolio/">
-    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/joaotkkdz">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:takkedazcorp@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+## About Me
 
-<br>
+- 🚀 Construindo agora: **Dashboard de Gastos**, um painel financeiro pessoal em React
+- 🎯 Objetivo: minha primeira vaga como dev front-end / full-stack júnior
+- 📚 Aprendendo: React e boas práticas de JavaScript moderno
+- 📬 Aberto a: estágio, vaga júnior e freelas
+- 💬 Dúvidas ou proposta? Me chama, respondo rápido!
+
+Ponta Grossa, PR, Brasil 🇧🇷
 
 ## 🚀 Projetos em destaque
 
@@ -67,18 +62,31 @@ Minha página pessoal, com console interativo no terminal embutido na própria p
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=2dd4bf" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=2dd4bf" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=2dd4bf" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=2dd4bf" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=2dd4bf" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=2dd4bf" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2dd4bf" alt="GitHub Actions">
 </p>
 
-## 📊 GitHub Stats
+## Languages and activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=takkedaz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takkedaz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takkedaz&theme=github_dark" alt="Radar de linguagens">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takkedaz&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&langs_count=6" alt="Principais linguagens">
 </p>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=takkedaz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&icon_color=2dd4bf" alt="Estatísticas do GitHub">
+
+## Contacts
+
+<p>
+  <a href="https://instagram.com/takkedaz"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=2dd4bf" alt="Instagram"></a>
+  <a href="mailto:takkedazcorp@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=2dd4bf" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/joaotkkdz"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2dd4bf" alt="LinkedIn"></a>
+  <a href="https://takkeda.com.br"><img src="https://img.shields.io/badge/Site-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2dd4bf" alt="Site pessoal"></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:0d1117&height=120&section=footer">
